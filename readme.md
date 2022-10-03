@@ -41,7 +41,7 @@ Some other *State of* reports
 - [State of the Octoverse](https://octoverse.github.com/)
 - [State of One-on-ones](https://hypercontext.com/state-of-one-on-ones-report)
 - [State of Open](https://openuk.uk/stateofopen/)
-- s[State of Platform Engineering Volume 1 (email paywall)](https://humanitec.com/whitepapers/state-of-platform-engineering-report-volume-1)
+- [State of Platform Engineering Volume 1 (email paywall)](https://humanitec.com/whitepapers/state-of-platform-engineering-report-volume-1)
 - [State of Remote Work](https://owllabs.com/state-of-remote-work/2021)
 
 
