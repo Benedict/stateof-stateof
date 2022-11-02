@@ -8,6 +8,8 @@
 - [Awesome *State Of*](#awesome-state-of)
   - [Contents](#contents)
   - [State of DevOps](#state-of-devops)
+  - [People](#people)
+  - [Technologies](#technologies)
   - [Others](#others)
   - [Contribute](#contribute)
 
@@ -32,21 +34,32 @@ Here are all the *State of DevOps* reports since 2013.
 
 [Tom Geraghty](https://twitter.com/tom_geraghty) has a great summary of all the State of DevOps reports up to 2021. A [State of State of DevOps](https://tomgeraghty.co.uk/index.php/all-the-state-of-devops-reports-since-2013/) if you will.
 
-## Others
+## People
 
-Some other *State of* reports
+- [State of One-on-ones](https://hypercontext.com/state-of-one-on-ones-report)
+- [State of Remote Work](https://owllabs.com/state-of-remote-work/2021)
+- [State of Teams 2022](https://www.atlassian.com/blog/state-of-teams-2022)
+- [State of Tech Salaries](https://hired.com/state-of-tech-salaries/2022/)
 
+## Technologies
+
+Some software and technology focussed reports.
 
 - [State of Data Science (email paywall)](https://anaconda.cloud/2021-state-of-data-science-report)
+- [State of Haskell](https://taylor.fausak.me/2021/11/16/haskell-survey-results/)
 - [State of the Octoverse](https://octoverse.github.com/)
-- [State of One-on-ones](https://hypercontext.com/state-of-one-on-ones-report)
+- [State of Software Supply Chain](https://www.sonatype.com/state-of-the-software-supply-chain/introduction)
+
+## Others
+
+Some other *State of* reports that I've got around to classifying yet - or don't sit in the other groups.
+
 - [State of Open](https://openuk.uk/stateofopen/)
 - [State of Platform Engineering Volume 1 (email paywall)](https://humanitec.com/whitepapers/state-of-platform-engineering-report-volume-1)
-- [State of Remote Work](https://owllabs.com/state-of-remote-work/2021)
-
 
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
