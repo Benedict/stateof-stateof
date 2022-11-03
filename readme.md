@@ -1,11 +1,11 @@
-# Awesome *State Of*
+# State of *State Of*
 
 > A curated list of *State of* reports. Mainly the State of DevOps, but some other useful ones below.
 
 
 ## Contents
 
-- [Awesome *State Of*](#awesome-state-of)
+- [State of *State Of*](#state-of-state-of)
   - [Contents](#contents)
   - [State of DevOps](#state-of-devops)
   - [People](#people)
