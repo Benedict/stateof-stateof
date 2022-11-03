@@ -57,6 +57,8 @@ Some other *State of* reports that I've got around to classifying yet - or don't
 - [State of Open](https://openuk.uk/stateofopen/)
 - [State of Platform Engineering Volume 1 (email paywall)](https://humanitec.com/whitepapers/state-of-platform-engineering-report-volume-1)
 - [State of Continuous Delivery](https://cd.foundation/state-cd-report/)
+- [State of Developer-Driven Security](https://www.securecodewarrior.com/cp/the-state-of-developer-security-skills-2022)
+- [State of DevSecOps](https://www.contrastsecurity.com/hubfs/DocumentsPDF/The-State-of-DevSecOps_Report_Final.pdf)
 
 ## Contribute
 
