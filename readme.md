@@ -45,7 +45,9 @@ Here are all the *State of DevOps* reports since 2013.
 
 Some software and technology focussed reports.
 
+- [Jamstack Community Survey](https://jamstack.org/survey/2022/)
 - [State of Data Science (email paywall)](https://anaconda.cloud/2021-state-of-data-science-report)
+- [State of Frontend](https://tsh.io/state-of-frontend/)
 - [State of Haskell](https://taylor.fausak.me/2021/11/16/haskell-survey-results/)
 - [State of the Octoverse](https://octoverse.github.com/)
 - [State of Software Supply Chain](https://www.sonatype.com/state-of-the-software-supply-chain/introduction)
