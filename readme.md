@@ -73,6 +73,7 @@ Some reports that focus on practices and ways of working
 
 Some other *State of* reports that I've got around to classifying yet - or don't sit in the other groups.
 
+- [State of Cloud Strategy 2023](https://www.hashicorp.com/state-of-the-cloud)
 - [State of Green Software 2023](https://stateof.greensoftware.foundation/en/)
 - [State of Open](https://openuk.uk/stateofopen/)
 - [State of Social (email paywall)](https://brandwatch.com/reports/state-of-social/)
