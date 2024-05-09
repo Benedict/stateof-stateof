@@ -66,6 +66,8 @@ Some reports that focus on practices and ways of working
 - [State of Developer-Driven Security](https://www.securecodewarrior.com/cp/the-state-of-developer-security-skills-2022)
 - [State of DevSecOps](https://www.contrastsecurity.com/hubfs/DocumentsPDF/The-State-of-DevSecOps_Report_Final.pdf)
 - [State of Software Delivery 2024 (email paywall)](https://circleci.com/resources/2024-state-of-software-delivery/)
+- [The SRE Report 2024](https://www.catchpoint.com/asset/2024-sre-report)
+- [The SRE Report 2023](https://www.catchpoint.com/asset/2023-sre-report)
 
 ## Others
 
