@@ -61,6 +61,7 @@ Some software and technology focussed reports.
 
 Some reports that focus on practices and ways of working
 
+- [State of CI/CD Report 2024](https://cd.foundation/state-of-cicd-2024/)
 - [State of Continuous Delivery](https://cd.foundation/state-cd-report/)
 - [State of Developer-Driven Security](https://www.securecodewarrior.com/cp/the-state-of-developer-security-skills-2022)
 - [State of DevSecOps](https://www.contrastsecurity.com/hubfs/DocumentsPDF/The-State-of-DevSecOps_Report_Final.pdf)
