@@ -48,24 +48,26 @@ Here are all the *State of DevOps* reports since 2013.
 
 Some software and technology focussed reports.
 
+- [State of AI 2023](https://retool.com/reports/state-of-ai-2023)
 - [Jamstack Community Survey](https://jamstack.org/survey/2022/)
 - [Pluralsight State of Cloud](https://www.pluralsight.com/resource-center/state-of-cloud)
 - [State of Data Science (email paywall)](https://anaconda.cloud/2021-state-of-data-science-report)
 - [State of Frontend](https://tsh.io/state-of-frontend/)
 - [State of Haskell](https://taylor.fausak.me/2021/11/16/haskell-survey-results/)
-- [State of the Octoverse](https://octoverse.github.com/)
+- [State of the Octoverse 2023](https://octoverse.github.com/)
 - [State of Software Supply Chain](https://www.sonatype.com/state-of-the-software-supply-chain/introduction)
 
 ## Practices
 
 Some reports that focus on practices and ways of working
 
-- [State of Platform Engineering Volume 1 (email paywall)](https://humanitec.com/whitepapers/state-of-platform-engineering-report-volume-1)
-- [State of Project to Product (email paywall)](https://info.planview.com/project-to-product-state-of-the-industry-_report_vsm_en_reg.html)
 - [State of Continuous Delivery](https://cd.foundation/state-cd-report/)
 - [State of Developer-Driven Security](https://www.securecodewarrior.com/cp/the-state-of-developer-security-skills-2022)
 - [State of DevSecOps](https://www.contrastsecurity.com/hubfs/DocumentsPDF/The-State-of-DevSecOps_Report_Final.pdf)
 - [State of Infrastructure from Code 2023](https://klo.dev/state-of-infrastructure-from-code-2023/)
+- [State of Internal Developer Portals](https://www.getport.io/state-of-internal-developer-portals)
+- [State of Platform Engineering Volume 1 (email paywall)](https://humanitec.com/whitepapers/state-of-platform-engineering-report-volume-1)
+- [State of Project to Product (email paywall)](https://info.planview.com/project-to-product-state-of-the-industry-_report_vsm_en_reg.html)
 - [State of Serverless 2023](https://www.datadoghq.com/state-of-serverless/)
 - [State of Serverless 2022](https://www.datadoghq.com/state-of-serverless-2022/)
 - [State of Software Delivery 2024 (email paywall)](https://circleci.com/resources/2024-state-of-software-delivery/)
@@ -76,7 +78,6 @@ Some reports that focus on practices and ways of working
 
 Some other *State of* reports that I've got around to classifying yet - or don't sit in the other groups.
 
-- [State of AI 2023](https://retool.com/reports/state-of-ai-2023)
 - [State of Business Communication](https://www.grammarly.com/business/Grammarly_The_State_Of_Business_Communication.pdf)
 - [State of Cloud Strategy 2023](https://www.hashicorp.com/state-of-the-cloud)
 - [State of Data Literacy Report 2023](https://www.datacamp.com/report/data-literacy-report-2023)
