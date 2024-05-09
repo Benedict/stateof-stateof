@@ -10,6 +10,7 @@
   - [State of DevOps](#state-of-devops)
   - [People](#people)
   - [Technologies](#technologies)
+  - [Practices](#practices)
   - [Others](#others)
   - [Contribute](#contribute)
 
@@ -18,7 +19,8 @@
 
 Here are all the *State of DevOps* reports since 2013.
 
-- [2022 Accelerate: State of DevOps Report (DORA)](https://cloud.google.com/devops/state-of-devops)
+- [2023 Accelerate: State of DevOps Report (DORA)](https://dora.dev/research/2023/dora-report/)
+- [2022 Accelerate: State of DevOps Report (DORA)](https://dora.dev/research/2022/dora-report/)
 - [2021 Accelerate: State of DevOps Report (DORA)](https://services.google.com/fh/files/misc/state-of-devops-2021.pdf)
 - [2021 State of DevOps Report (Puppet)](https://puppet.com/resources/report/2021-state-of-devops-report)
 - [2020 State of DevOps Report (Puppet)](https://puppet.com/resources/report/2020-state-of-devops-report)
@@ -53,15 +55,22 @@ Some software and technology focussed reports.
 - [State of the Octoverse](https://octoverse.github.com/)
 - [State of Software Supply Chain](https://www.sonatype.com/state-of-the-software-supply-chain/introduction)
 
+## Practices
+
+Some reports that focus on practices and ways of working
+
+- [State of Platform Engineering Volume 1 (email paywall)](https://humanitec.com/whitepapers/state-of-platform-engineering-report-volume-1)
+- [State of Continuous Delivery](https://cd.foundation/state-cd-report/)
+- [State of Developer-Driven Security](https://www.securecodewarrior.com/cp/the-state-of-developer-security-skills-2022)
+- [State of DevSecOps](https://www.contrastsecurity.com/hubfs/DocumentsPDF/The-State-of-DevSecOps_Report_Final.pdf)
+
 ## Others
 
 Some other *State of* reports that I've got around to classifying yet - or don't sit in the other groups.
 
 - [State of Open](https://openuk.uk/stateofopen/)
-- [State of Platform Engineering Volume 1 (email paywall)](https://humanitec.com/whitepapers/state-of-platform-engineering-report-volume-1)
-- [State of Continuous Delivery](https://cd.foundation/state-cd-report/)
-- [State of Developer-Driven Security](https://www.securecodewarrior.com/cp/the-state-of-developer-security-skills-2022)
-- [State of DevSecOps](https://www.contrastsecurity.com/hubfs/DocumentsPDF/The-State-of-DevSecOps_Report_Final.pdf)
+- [State of Social (email paywall)](https://brandwatch.com/reports/state-of-social/)
+
 
 ## Contribute
 
