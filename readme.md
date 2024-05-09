@@ -89,6 +89,7 @@ Some other *State of* reports that I've got around to classifying yet - or don't
 - [State of Green Software 2023](https://stateof.greensoftware.foundation/en/)
 - [State of Open](https://openuk.uk/stateofopen/)
 - [State of Social (email paywall)](https://brandwatch.com/reports/state-of-social/)
+- [State of Tech Talent 2024](https://training.linuxfoundation.org/wp-content/uploads/2024/04/2024-Tech-Talent-Report-FINAL.pdf)
 
 
 ## Contribute
