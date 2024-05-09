@@ -35,7 +35,7 @@ Here are all the *State of DevOps* reports since 2013.
 - [2014 State of DevOps Report](https://puppet.com/resources/report/2014-state-devops-report)
 - [2013 State of DevOps Report](https://puppet.com/resources/report/2013-state-devops-report)
 
-[Tom Geraghty](https://twitter.com/tom_geraghty) has a great summary of all the State of DevOps reports up to 2021. A [State of State of DevOps](https://tomgeraghty.co.uk/index.php/all-the-state-of-devops-reports-since-2013/) if you will.
+[Tom Geraghty](https://www.linkedin.com/in/geraghtytom/) has a great summary of all the State of DevOps reports up to 2021. A [State of State of DevOps](https://tomgeraghty.co.uk/index.php/all-the-state-of-devops-reports-since-2013/) if you will.
 
 ## People
 
@@ -75,6 +75,7 @@ Some reports that focus on practices and ways of working
 Some other *State of* reports that I've got around to classifying yet - or don't sit in the other groups.
 
 - [State of Cloud Strategy 2023](https://www.hashicorp.com/state-of-the-cloud)
+- [State of Data Literacy Report 2023](https://www.datacamp.com/report/data-literacy-report-2023)
 - [State of Green Software 2023](https://stateof.greensoftware.foundation/en/)
 - [State of Open](https://openuk.uk/stateofopen/)
 - [State of Social (email paywall)](https://brandwatch.com/reports/state-of-social/)
