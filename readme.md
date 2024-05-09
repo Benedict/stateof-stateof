@@ -70,6 +70,8 @@ Some reports that focus on practices and ways of working
 - [State of Project to Product (email paywall)](https://info.planview.com/project-to-product-state-of-the-industry-_report_vsm_en_reg.html)
 - [State of Serverless 2023](https://www.datadoghq.com/state-of-serverless/)
 - [State of Serverless 2022](https://www.datadoghq.com/state-of-serverless-2022/)
+- [Software Architecture and Design Trends Report 2024 (InfoQ)](https://www.infoq.com/articles/architecture-trends-2024/)
+- [Software Architecture and Design Trends Report 2023 (InfoQ)](https://www.infoq.com/articles/architecture-trends-2023/)
 - [State of Software Delivery 2024 (email paywall)](https://circleci.com/resources/2024-state-of-software-delivery/)
 - [The SRE Report 2024](https://www.catchpoint.com/asset/2024-sre-report)
 - [The SRE Report 2023](https://www.catchpoint.com/asset/2023-sre-report)
