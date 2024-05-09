@@ -20,10 +20,11 @@
 Here are all the *State of DevOps* reports since 2013.
 
 - [2023 Accelerate: State of DevOps Report (DORA)](https://dora.dev/research/2023/dora-report/)
+- [2023 State of DevOps Report (Puppet)](https://www.puppet.com/system/files/report-puppet-sodor-2023-platform-engineering.pdf)
 - [2022 Accelerate: State of DevOps Report (DORA)](https://dora.dev/research/2022/dora-report/)
 - [2021 Accelerate: State of DevOps Report (DORA)](https://services.google.com/fh/files/misc/state-of-devops-2021.pdf)
-- [2021 State of DevOps Report (Puppet)](https://puppet.com/resources/report/2021-state-of-devops-report)
-- [2020 State of DevOps Report (Puppet)](https://puppet.com/resources/report/2020-state-of-devops-report)
+- [2021 State of DevOps Report (Puppet)](https://www.puppet.com/resources/history-of-devops-reports#2021)
+- [2020 State of DevOps Report (Puppet)](https://www.puppet.com/system/files/2020-State-of-DevOps-Report.pdf)
 - [2019 Accelerate: State of DevOps Report (DORA)](https://services.google.com/fh/files/misc/state-of-devops-2019.pdf)
 - [2019 State of DevOps Report (Puppet)](https://puppet.com/resources/report/2019-state-of-devops-report)
 - [2018 Accelerate: State of DevOps Report (DORA)](https://services.google.com/fh/files/misc/state-of-devops-2018.pdf)
