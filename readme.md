@@ -46,6 +46,7 @@ Here are all the *State of DevOps* reports since 2013.
 Some software and technology focussed reports.
 
 - [Jamstack Community Survey](https://jamstack.org/survey/2022/)
+- [Pluralsight State of Cloud](https://www.pluralsight.com/resource-center/state-of-cloud)
 - [State of Data Science (email paywall)](https://anaconda.cloud/2021-state-of-data-science-report)
 - [State of Frontend](https://tsh.io/state-of-frontend/)
 - [State of Haskell](https://taylor.fausak.me/2021/11/16/haskell-survey-results/)
