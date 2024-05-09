@@ -76,6 +76,7 @@ Some reports that focus on practices and ways of working
 
 Some other *State of* reports that I've got around to classifying yet - or don't sit in the other groups.
 
+- [State of AI 2023](https://retool.com/reports/state-of-ai-2023)
 - [State of Business Communication](https://www.grammarly.com/business/Grammarly_The_State_Of_Business_Communication.pdf)
 - [State of Cloud Strategy 2023](https://www.hashicorp.com/state-of-the-cloud)
 - [State of Data Literacy Report 2023](https://www.datacamp.com/report/data-literacy-report-2023)
